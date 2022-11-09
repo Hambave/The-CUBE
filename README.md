@@ -1,5 +1,7 @@
 # The CUBE
-Endless game with procedurally generated level
+Endless game with procedurally generated level made in UE5 with blueprints.
+
+This project is made for learning purposes.
 
 ![Screenshot_20221024_094505](https://user-images.githubusercontent.com/25882897/197602254-12fca12b-832d-4b61-a6e1-4864c0f11dd2.png)
 ![Screenshot_20221024_094510](https://user-images.githubusercontent.com/25882897/197602267-6db577d6-dc64-401a-9ef1-ab234014ef72.png)
